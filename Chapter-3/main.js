@@ -1,7 +1,6 @@
 // Chapter 3 - Strings are a series of characters. They have methods as well as properties. 
 
-
-// Strings
+// STRINGS
 console.log("hello world");
 
 let email = "rybrockers@yahoo.com"
@@ -28,3 +27,6 @@ console.log(result, fullName);
 let index = email.indexOf("@");
 console.log(index);
 // however, some variables do
+// /////////////////////////////////////////////////////////////////
+
+
